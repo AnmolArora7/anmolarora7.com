@@ -106,14 +106,7 @@ font-size: 1.8rem;
 margin-bottom: 10px;
 }
 
-/* Footer */
-.footer {
-text-align: center;
-padding: 30px;
-background-color: #000000;
-color: #f44336;
-font-size: 1.2rem;
-}
+
 
 /* Hover Animations */
 a:hover, .section:hover {
@@ -212,17 +205,4 @@ html {
 scroll-behavior: smooth;
 }
 
-/* Footer Section with Fade-In Effect */
-footer {
-    background-color: rgba(0, 0, 0, 0.5);
-    text-align: center;
-    padding: 20px;
-    color: white;
-    font-size: 1rem;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    opacity: 0;
-    animation: fadeIn 2s forwards;
-}
+
