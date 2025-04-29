@@ -10,12 +10,13 @@ greetingElement.innerHTML = greetings[Math.floor(Math.random() * greetings.lengt
 
 // Random Quote Feature
 const quotes = [
-"The future belongs to those who believe in the beauty of their dreams.",
-"Innovation distinguishes between a leader and a follower.",
-"Do not wait for the perfect moment; take the moment and make it perfect.",
+"World Is Nothing Without Physics!",
+// "Innovation distinguishes between a leader and a follower.",
+// "Do not wait for the perfect moment; take the moment and make it .",
 "Stop Dreaming Set Up Goals!",
-"Mohit Is A Nigga!",
-"Ekam Is Dumb XD!"
+// "",
+// "Mohit Is A Nigga!",
+// "Ekam Is Dumb XD!"
 ];
 
 let randomQuoteElement = document.getElementById("random-quote");
